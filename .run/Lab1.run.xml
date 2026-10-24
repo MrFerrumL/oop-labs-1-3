@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Лаба 1" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.university.lab01.Main" />
+    <module name="lab01-first-class" />
+    <option name="VM_PARAMETERS" value="-Dfile.encoding=UTF-8 -Dstdout.encoding=UTF-8 -Dstderr.encoding=UTF-8" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab01-first-class" />
+    <method v="2"><option name="Make" enabled="true" /></method>
+  </configuration>
+</component>
